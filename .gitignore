@@ -43,3 +43,5 @@
 
 ## compressed
 **/*.tgz
+.yarnrc
+.yarn/releases/yarn-1.22.19.cjs
